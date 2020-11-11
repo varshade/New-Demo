@@ -141,8 +141,8 @@
                 </value>
             </valueSetDefinition>
             <valueSettings>
+                <controllingFieldValue>1</controllingFieldValue>
                 <controllingFieldValue>2</controllingFieldValue>
-                <controllingFieldValue>3</controllingFieldValue>
                 <valueName>a</valueName>
             </valueSettings>
             <valueSettings>
