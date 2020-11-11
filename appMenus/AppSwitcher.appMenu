@@ -81,31 +81,27 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>copado__Copado</name>
+        <name>vlocity_cmt__DataRaptor</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>copado__Copado_Branch_Management</name>
+        <name>vlocity_cmt__VlocityConsoleApp</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>copado__Copado_Change_Management</name>
+        <name>vlocity_cmt__VlocityPricingConsole</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>copado__Copado_Compliance_Hub</name>
+        <name>vlocity_cmt__VlocityProductConsole</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>copado__Copado_Console</name>
+        <name>vlocity_cmt__VlocityTelecommunicationServices</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>copado__Copado_Permissioner</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>copado__Copado_Selenium_Testing</name>
-        <type>CustomApplication</type>
+        <name>VBT_Connected</name>
+        <type>ConnectedApp</type>
     </appMenuItems>
 </AppMenu>

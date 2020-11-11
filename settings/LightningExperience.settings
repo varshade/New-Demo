@@ -26,14 +26,10 @@
     <enableS1BrowserEnabled>true</enableS1BrowserEnabled>
     <enableS1DesktopEnabled>true</enableS1DesktopEnabled>
     <enableS1UiLoggingEnabled>true</enableS1UiLoggingEnabled>
-    <enableSparkAllUsers>false</enableSparkAllUsers>
-    <enableSparkConversationEnabled>false</enableSparkConversationEnabled>
     <enableSplitViewOnStandard>false</enableSplitViewOnStandard>
     <enableTryLightningOptOut>false</enableTryLightningOptOut>
     <enableUseS1AlohaDesktop>false</enableUseS1AlohaDesktop>
     <enableUsersAreLightningOnly>false</enableUsersAreLightningOnly>
-    <enableWebExEnabled>false</enableWebExEnabled>
-    <enableWebexAllUsers>false</enableWebexAllUsers>
     <isLEXExtensionComponentCustomizationOff>false</isLEXExtensionComponentCustomizationOff>
     <isLEXExtensionDarkModeOff>false</isLEXExtensionDarkModeOff>
     <isLEXExtensionLinkGrabberOff>false</isLEXExtensionLinkGrabberOff>
